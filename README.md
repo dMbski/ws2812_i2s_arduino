@@ -1,6 +1,8 @@
 # ws2812-i2s library
 
-This a library to be used in firmware for the ESP8266.
+#This a library to be used in firmware for the ESP8266.
+This fork is change to work with Arduino xmasLED project.
+some changes to structure rgb
 
 ## What is this
 
